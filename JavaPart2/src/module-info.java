@@ -1,0 +1,2 @@
+module javaPart2 {
+}
