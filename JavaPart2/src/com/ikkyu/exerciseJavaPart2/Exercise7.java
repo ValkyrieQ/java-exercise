@@ -1,4 +1,4 @@
-package com.ikkyu.exercise.JavaPart2;
+package com.ikkyu.exerciseJavaPart2;
 
 public class Exercise7 {
 
